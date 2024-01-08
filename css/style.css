@@ -862,7 +862,7 @@ body.offcanvas {
 .blog-entry {
   width: 100%;
   float: left;
-  background: #fff;
+  background: #ddedea;
   margin-bottom: 3em; }
   @media screen and (max-width: 768px) {
     .blog-entry {
@@ -942,7 +942,7 @@ body.offcanvas {
     bottom: 0;
     left: 0;
     right: 0;
-    background: #2c98f0;
+    background: #ddedea;
     opacity: 0;
     -webkit-transition: 0.3s;
     -o-transition: 0.3s;
